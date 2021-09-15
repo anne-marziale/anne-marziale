@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-Current student from Wild Code School, I look forward to being able to put into practice the knowledge I acquired during my training at the Wild Code School 😃 .
+Current student from the Wild Code School, I look forward to being able to put into practice the knowledge I acquired during my training at the Wild Code School 😃 .
 
 👩‍💻  Learning of web development in self managed quests, in team projects management and taking part in hackathons.
 
