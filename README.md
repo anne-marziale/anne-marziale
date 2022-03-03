@@ -32,9 +32,6 @@ Current student from the Wild Code School, I look forward to being able to put i
 [<img src='https://img.icons8.com/fluency/344/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/anne-marziale-202545218/?locale=en_US)  
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anne-marziale&show_icons=true&locale=en&layout=compact" alt="anne-marziale" /></p>
 
 
