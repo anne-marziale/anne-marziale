@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Anne Marziale
 #### Junior Web developper
-![Web developper](https://images.pexels.com/photos/2706654/pexels-photo-2706654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=250&w=860)
+![Web developper](https://images.pexels.com/photos/2706654/pexels-photo-2706654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=250&w=460)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
